@@ -57,7 +57,7 @@ Follow these steps to get the app running on your local machine.
     ```python
     API_KEY = "YOUR_SECRET_API_KEY_HERE"
     ```
-    *(This file is listed in `.gitignore`, so your secret key will not be pushed to GitHub.)*
+    
 
 6.  **Run the app!**
     ```bash
